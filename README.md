@@ -1,9 +1,19 @@
-<table><tr><td valign="top" width="50%">
+<!-- ()()() Big introduction section/row ()()() -->
+<div >
+<!--()Github repo stats (should be aligned to the right)()-->
+<a href="https://github-readme-stats.vercel.app/">
+ <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Vicg853&show_icons=true&count_private=true&hide_border=true&bg_color=1b1b1b&layout=compact&title_color=ffba48&text_color=ffffff&icon_color=ffba48" align="right" />
+</a>
+<!-- ()Github stats end()-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains++Mono&color=FFBA48&size=30&multiline=true&height=100&lines=What+am+I+doing%3F+;Just%2C+coding+a+dinosaur...)](https://git.io/typing-svg)  
-  
+<!-- ()Introduction animated text (should be aligned to the left() -->
+<a href="https://git.io/typing-svg">
+<img align="left" width="44%" src="https://readme-typing-svg.herokuapp.com?font=JetBrains++Mono&color=FFBA48&size=30&multiline=true&height=100&lines=What+am+I+doing%3F+;Just%2C+coding+a+dinosaur..." >
+</a><br/><br/><br/><br/>
+<!-- ()Introduction animated text end() -->
 
-## **Oiii, tudo bem? Je suis Victor Gomez, encore un autre developeur aléatoire dans le monde... 😄👋**  
+<!--()Introduction text(should be aligned to the left)-->
+### **Oiii, tudo bem? Je suis Victor Gomez, encore un autre developeur aléatoire dans le monde... 😄👋**  
   
 
 I'm an 18-year-old, that codes since he's 12 and loves Computer Science, Music (literally any genre of music, I just, love listening to, no matter what it is), and spending time with friends. <br/>
@@ -13,45 +23,45 @@ I fell in love with technology very early and when I discovered CS, I started le
 
 You can check my website if you will 💻...:
 [https://victorgomez.dev/](https://victorgomez.dev/)  
+<!--()Introduction text end-->
 
-
-</td><td valign="top" width="50%">
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Vicg853&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicg853&hide_border=true&layout=compact" align="right" /></div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Vicg853" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<!--()Github language usage stats (should be aligned to the right)()-->
+<a href="https://github-readme-stats.vercel.app/">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicg853&hide_border=true&layout=compact&langs_count=7&bg_color=1b1b1b&layout=compact&title_color=ffba48&text_color=ffffff&icon_color=ffba48" align="right" />
 </a>
-<a href="https://instagram.com/victor_g853" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+<!--()Github language usage stats end()-->
+
+----
+  
+<!--Social links (should be aligned to the left/center) -->
+### ...Or Connect with me  
 <a href="https://linkedin.com/in/victor-rosa-gomez-15953a171" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img align="left" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/11699778" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+<img align="center" src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+<a href="https://github.com/Vicg853" target="_blank">
+<img align="left" src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/victor_g853" target="_blank">
+<img align="center" src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+</div><br/><br/><br/><br/>
+<!--()Github language usage stats end()-->
 
-<br/>  
+<!-- ()()() Big introduction section/row end ()()() -->
 
+---
 
-## My Skill Set  
+<!-- ()()() Skill set section/row (tecnologies, languages, etc.. I know) (should be aligned to the center)()()() -->
+### My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
 
-### Advanced knowledge (I'm not a senior developer...)  
+#### Advanced knowledge (I'm not a senior developer...)  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -72,9 +82,7 @@ You can check my website if you will 💻...:
 
 </td><td valign="top" width="33%">
 
-
-
-### Medium knowledge....  
+#### Medium knowledge....  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
@@ -98,7 +106,7 @@ You can check my website if you will 💻...:
 
 
 
-### Starting to learn or I have a basic knowledge  
+#### Starting to learn or I have a basic knowledge  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
@@ -112,7 +120,7 @@ You can check my website if you will 💻...:
 
 
 
-### Really plan on learning later  
+#### Really plan on learning later  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
@@ -124,20 +132,19 @@ You can check my website if you will 💻...:
 </div>
 
 </td></tr></table>  
+<!-- ()()() Skill set end section/row ()()() -->
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<!-- ()()() Spotify listening now status card and Profilinator link (both should be centered) ()()() -->  
+<div align="center" width="40%">
+  <h3> Eu não disse que gostava de musica kkkkkkkk....</h3>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=4g83ywu4zt61daj30y15af90l&cover_image=true&theme=default" />
+</div>
 
-# Eu não disse que gostava de musica kkkkkkkk....  
-  
+----
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=4g83ywu4zt61daj30y15af90l&cover_image=true&theme=default" /></div>
-
-</td><td valign="top" width="50%">
-
-Used @rishavanand [Profilinator](https://profilinator.rishav.dev/) to generate this README.md file  
-
-
-</td></tr></table>
-<br />
+<div align="center" width="30%">
+  Used @rishavanand <a href="https://profilinator.rishav.dev/">Profilinator</a> to generate this README.md file  
+</div>
+<!-- ()()() Spotify listening now status card and Profilinator link end ()()() -->  
