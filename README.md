@@ -48,7 +48,7 @@ You can check my website if you will 💻...:
 <a href="https://instagram.com/victor_g853" target="_blank">
 <img align="center" src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-</div><br/><br/><br/><br/>
+</div><br/><br/><br/><br/><br/><br/>
 <!--()Github language usage stats end()-->
 
 <!-- ()()() Big introduction section/row end ()()() -->
@@ -148,3 +148,6 @@ You can check my website if you will 💻...:
   Used @rishavanand <a href="https://profilinator.rishav.dev/">Profilinator</a> to generate this README.md file  
 </div>
 <!-- ()()() Spotify listening now status card and Profilinator link end ()()() -->  
+
+<!--Views counter-->
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Vicg853&repo=Vicg853)
