@@ -33,7 +33,7 @@ You can check my website if you will 💻...:
 
 ----
   
-<!--Social links (should be aligned to the left/center) -->
+<!-- ()Social links (should be aligned to the left/center) ()-->
 ### ...Or Connect with me  
 <a href="https://linkedin.com/in/victor-rosa-gomez-15953a171" target="_blank">
 <img align="left" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -48,8 +48,13 @@ You can check my website if you will 💻...:
 <a href="https://instagram.com/victor_g853" target="_blank">
 <img align="center" src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-</div><br/><br/><br/><br/><br/><br/>
-<!--()Github language usage stats end()-->
+<br/><br/><br/><br/>
+<!--()Social links end()-->
+
+<!--()Stack overflow card start (should be aligned to the left)()-->
+<a href="https://stackoverflow.com/users/11699778/victor-gomez"><img src="https://stackoverflow.com/users/flair/11699778.png?theme=dark" width="208" height="58" alt="profile for Victor Gomez at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Victor Gomez at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<br/><br/>
+<!-- () Stack overflow card end () -->
 
 <!-- ()()() Big introduction section/row end ()()() -->
 
