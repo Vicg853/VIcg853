@@ -143,18 +143,26 @@ You can check my website if you will 💻...:
 
 <br/>  
 
-<!-- ()()() Spotify listening now status card and Profilinator link (both should be centered) ()()() -->  
-<div align="center" width="40%">
-  <h3> Eu não disse que gostava de musica kkkkkkkk....</h3>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=4g83ywu4zt61daj30y15af90l&cover_image=true&theme=default" />
+<!-- ()()() Spotify listening now status card, currently doing and Profilinator link (each one should be centered) ()()() -->  
+<div width="100%" align="center">
+   <h3 align="right"> Eu não disse que gostava de musica kkkkkkkk....</h3>
+   <img align="right" width="30%" src="https://spotify-github-profile.vercel.app/api/view?uid=4g83ywu4zt61daj30y15af90l&cover_image=true&theme=default" />
+  <div align="left" width="70%">
+   <h4>"Currently" doing...</h4>
+   <ul>
+    <li>2nd version of my personal portfolio</li>
+    <li>Learning/setting up a home server with a Kubernetes </br>
+     Cluster (getting a little pissed off with it -_- but not giving up)</li>
+    <li>Developping @Alpes-Capital Webpage/online services</li>
+    <li>Planning on moving from São Paulo, Brasil -> to -> Nice, France</li>
+   </ul>
+  </div>
 </div>
-
-----
-
-<div align="center" width="30%">
+<div align="left" width="100%">
+  <br><br><br>
   Used @rishavanand <a href="https://profilinator.rishav.dev/">Profilinator</a> to generate this README.md file  
 </div>
-<!-- ()()() Spotify listening now status card and Profilinator link end ()()() -->  
+<!-- ()()() Spotify listening now status card, currently doing and Profilinator link ()()() -->  
 
 <!--Views counter-->
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Vicg853&repo=Vicg853)
+<!--![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Vicg853&repo=Vicg853)-->
