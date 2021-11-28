@@ -9,7 +9,7 @@ td, th {
 
 <br/>  
 
-I'm an 18-year-old, that codes since he's 12 and loves Computer Science, Music (literally any genre of music, I just, love listening to, no matter what it is), and spending time with friends. <br/>
+I'm an 18-year-old, that codes since he's 12 and loves anything related to Computer Science 🥰, Music (literally any genre of music, I just, love listening to, no matter what it is), spending time with friends and playing MSFS 2020 (also: flying 🤤, I would love to get a pilot's license✈️) <br/>
 Where am I from? So... I am Brazilian and at the same time Hispanic, and I can fluently speak: Portuguese (Brazilian one), French (as I studied at a French Lycée) and English. I fell in love with technology very early and when I discovered CS, I started learning about it as much as I can (and still doing it), I like to think we are the wizards of today's world 🪄🪄💻  
   
 
