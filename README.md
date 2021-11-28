@@ -10,7 +10,7 @@ td, th {
 <br/>  
 
 I'm an 18-year-old, that codes since he's 12 and loves Computer Science, Music (literally any genre of music, I just, love listening to, no matter what it is), and spending time with friends. <br/>
-Where am I from? So... I am Brazilian and at the same time Hispanic, and I can fluently speak: Portuguese (Brazilian one), French (as I studied at a French Lycée) and English. I fell in love with technology very early and when I discovered CS, I started learning about it as much as I can (and still doing it), I like to thing we are the wizards of today's world 🪄🪄💻  
+Where am I from? So... I am Brazilian and at the same time Hispanic, and I can fluently speak: Portuguese (Brazilian one), French (as I studied at a French Lycée) and English. I fell in love with technology very early and when I discovered CS, I started learning about it as much as I can (and still doing it), I like to think we are the wizards of today's world 🪄🪄💻  
   
 
 You can check my website if you will 💻...:
@@ -22,11 +22,11 @@ You can check my website if you will 💻...:
  <table align="center"><tr><td valign="top" width="50%">
 
 
-  - 🪄🖥️2nd version of my personal portfolio  
+  - 🪄🖥️2nd version of my personal portfolio (using: [GatsbyJS](https://www.gatsbyjs.com/)
   
-  - 🪄🖥️Developping [@Alpes-Capital](https://github.com/Alpes-Capital) Webpage/online services  
+  - 🪄🖥️Developping [@Alpes-Capital](https://github.com/Alpes-Capital) Webpage/online services (using: [NextJS](https://nextjs.org/))
   
-  - Learning/setting up a home server with a Kubernetes Cluster (getting a little pissed off with it 😑😡 but not giving up) (not gonna give you up not gonna let you down... 🎶😁)  
+  - Learning/setting up a home server with a Kubernetes Cluster (getting a little pissed off with it 😑😡 but not giving up) (not gonna give you up not gonna let you down... 🎶😁)
   
    - 🌎✈️🌍Planning on moving from São Paulo, Brasil -> to -> Nice, France  
 
