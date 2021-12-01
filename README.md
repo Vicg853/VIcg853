@@ -75,7 +75,7 @@ Well, I love the whole stack, but at the moment, I'm focused on Full-stack dev. 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+<img src="https://camo.githubusercontent.com/8c05b5bd744a8809e53a261afe7cbfddf885da1388cd3e2226e5ca57ba10009a/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3832363834343539343436343438393439342f3836363738383938383533383538353132382f363837343734373037333361326632663662363137353733373437353632363832653634363537363266363936643637326636653635373837343661373332653336333333333338363533333632333132653730366536372e706e673f77696474683d343535266865696768743d343939" alt="nextjs" width="40" height="40"/>
 </div>
 
 </td><td valign="top" width="50%">
