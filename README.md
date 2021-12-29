@@ -1,39 +1,23 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 ### Oiii, tudo bem? Je suis Victor Gomez, encore un autre developeur aléatoire dans le monde... 😉👋  
   
 
 <br/>  
 
-I'm an 18-year-old, that codes since he's 12 and loves anything related to Computer Science 🥰, Music (literally any genre of music, I just, love listening to, no matter what it is), spending time with friends and playing MSFS 2020 (also: flying 🤤, I would love to get a pilot's license✈️) <br/>
-Where am I from? So... I am Brazilian and at the same time Hispanic, and I can fluently speak: Portuguese (Brazilian one), French (as I studied at a French Lycée) and English. I fell in love with technology very early and when I discovered CS, I started learning about it as much as I can (and still doing it), I like to think we are the wizards of today's world 🪄🪄💻  
-If you need help with anything, let's talk! 😉
-  
-
-You can check my website if you will 💻...:
-[https://victorgomez.dev/](https://victorgomez.dev/)    
-  
+I'm an 18-year-old, that codes since he's 12 and loves anything related to Computer Science 🥰, Music (of literally any kind, I just, love listening to it, no matter what it is), spending time with friends and playing MSFS 2020 (also: flying 🤤, I would love to get a pilot's license✈️)<br/> 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains++Mono&color=FFBA48&size=30&multiline=true&height=100&lines=What+am+I+doing%3F+;Just%2C+coding+a+dinosaur..." align="right" />
+I like to think programmers are the wizards of today's world 🪄🪄💻  
 
 <br/>  
+<ul align='left' width='50%' style='width: 50%;'>
+   <h5> What am I doing?</h5>
+   <li>🪄🖥️2nd version personal portfolio (using: <a href='https://www.gatsbyjs.com/'>GatsbyJS</a>)</li>
 
- <table align="center"><tr><td valign="top" width="50%">
+   <li>🪄🖥️Developping <a href='https://github.com/Alpes-Capital'>@Alpes-Capital</a> Webpage/online services (using: <a href='https://nextjs.org/'>NextJS</a>)</li>
+  <li>Learning/setting up a home lab w/ a K8s Cluster (getting a little pissed off with it 😑😡 but "not gonna give you up not gonna let you down...")</li>
+  <li>🌎✈️🌍Planning on moving from São Paulo, Brasil -> to -> Nice, France</li>  
+</ul> 
 
-
-  - 🪄🖥️2nd version of my personal portfolio (using: [GatsbyJS](https://www.gatsbyjs.com/)
-  
-  - 🪄🖥️Developping [@Alpes-Capital](https://github.com/Alpes-Capital) Webpage/online services (using: [NextJS](https://nextjs.org/))
-  
-  - Learning/setting up a home server with a Kubernetes Cluster (getting a little pissed off with it 😑😡 but not giving up) (not gonna give you up not gonna let you down... 🎶😁)
-  
-   - 🌎✈️🌍Planning on moving from São Paulo, Brasil -> to -> Nice, France  
-
-</td><td valign="top" width="50%">
- <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains++Mono&color=FFBA48&size=30&multiline=true&height=100&lines=What+am+I+doing%3F+;Just%2C+coding+a+dinosaur..." align="right" />
-  <p align="right">
+<p align='center' width='50px'>
   <a href="https://github.com/Vicg853" target="_blank" align="right">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" align="right" />
   </a>
@@ -46,23 +30,20 @@ You can check my website if you will 💻...:
   <a href="https://instagram.com/victor_g853" target="_blank" align="right">
    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" align="right" />
   </a>  
-</td></tr></table>  
+</p>
 
 
 <br/>  
 
 
 ## Skills...  
-Well, I love the whole stack, but at the moment, I'm focused on Full-stack dev. I do not have a degree and I probably am not a even junior dev, although, I have at least 3+ years of experience with the tools I daily drive. And my journey is not stopping here, I always love to get into new stacks, tools and etc.. and I know, I still have a lot to learn😅...
-  
+Well, I love the whole stack, but at the moment, I'm focused on Full-stack dev. Junior dev
 
 <br/>  
 
 <table align="center"><tr><td valign="top" width="50%">
 
-
-
-### Daily drive / higher knowledge...  
+### Top skills 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
@@ -102,50 +83,16 @@ Well, I love the whole stack, but at the moment, I'm focused on Full-stack dev. 
 
 <br/>  
 
-<table align="center"><tr><td valign="top" width="50%">
-
-
-
-### Basic knowledge / I don't use to much (at least not anymore)  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" />  
-</div>
-
-</td><td valign="top" width="50%">
-
-
-
-### Would really love/am going to get into  
-<div align="center">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" /> 
-<a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a>
-<a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
 
 ## Github Stats  
 
-
-<p align="center" width="100%">
- <p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicg853&hide_border=true&layout=compact&bg_color=1b1b1b&title_color=ffba48&text_color=ffffff&icon_color=ffba48" align="right" />
- </p>
- <p align="left" >
-  <img src="https://github-readme-stats.vercel.app/api?username=Vicg853&show_icons=true&count_private=true&hide_border=true&bg_color=1b1b1b&layout=compact&title_color=ffba48&text_color=ffffff&icon_color=ffba48" align="left" /> 
- </p>
+<p align="left" >
+ <img src="https://github-readme-stats.vercel.app/api?username=Vicg853&show_icons=true&count_private=true&hide_border=true&bg_color=1b1b1b&layout=compact&title_color=ffba48&text_color=ffffff&icon_color=ffba48" align="left" /> 
 </p>
+<p align="right">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicg853&hide_border=true&layout=compact&bg_color=1b1b1b&title_color=ffba48&text_color=ffffff&icon_color=ffba48" align="right" />
+</p>
+
 
 </br></br></br></br></br></br></br></br>
 
