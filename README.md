@@ -86,24 +86,14 @@ Well, I love the whole stack, but at the moment, I'm focused on Full-stack dev. 
 
 ## Github Stats  
 
-<p align="left" >
- <img src="https://github-readme-stats.vercel.app/api?username=Vicg853&show_icons=true&count_private=true&hide_border=true&bg_color=1b1b1b&layout=compact&title_color=ffba48&text_color=ffffff&icon_color=ffba48" align="left" /> 
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=Vicg853&show_icons=true&count_private=true&hide_border=true&bg_color=1b1b1b&layout=compact&title_color=ffba48&text_color=ffffff&icon_color=ffba48" /> 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicg853&hide_border=true&layout=compact&bg_color=1b1b1b&title_color=ffba48&text_color=ffffff&icon_color=ffba48" />
 </p>
-<p align="right">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicg853&hide_border=true&layout=compact&bg_color=1b1b1b&title_color=ffba48&text_color=ffffff&icon_color=ffba48" align="right" />
+  
+---
+<p align='center'>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=4g83ywu4zt61daj30y15af90l&cover_image=true&theme=default" align="left" />
+  Had to include this... What can I say, I love music
 </p>
-
-
-</br></br></br></br></br></br></br></br>
-
-<h2> The end... </h2>
-
-<p align="center">
- <p align="right">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=4g83ywu4zt61daj30y15af90l&cover_image=true&theme=default" align="right" />
- </p>  
- <p align="left">
-  <img align="left" src="https://komarev.com/ghpvc/?username=Vicg853&&style=flat-square" />&nbsp;
-  <p align="left">Well... What could I do? I said I loved music, so I needed to include this</p>  
- </p>
-</p >  
