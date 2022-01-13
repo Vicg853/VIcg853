@@ -27,9 +27,6 @@ I like to think programmers are the wizards of today's world 🪄🪄💻
   <a href="https://stackoverflow.com/users/11699778" target="_blank" align="right">
    <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" align="right" />
   </a>
-  <a href="https://instagram.com/victor_g853" target="_blank" align="right">
-   <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" align="right" />
-  </a>  
 </p>
 
 
@@ -92,10 +89,4 @@ Well, I love the whole stack, but at the moment, I'm focused on Full-stack dev. 
 <img src="https://github-readme-stats.vercel.app/api?username=Vicg853&show_icons=true&count_private=true&hide_border=true&bg_color=1b1b1b&layout=compact&title_color=ffba48&text_color=ffffff&icon_color=ffba48" /> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicg853&hide_border=true&layout=compact&bg_color=1b1b1b&title_color=ffba48&text_color=ffffff&icon_color=ffba48" />
-</p>
-  
----
-<p align='center'>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=4g83ywu4zt61daj30y15af90l&cover_image=true&theme=default" align="left" />
-  Had to include this... What can I say, I love music
 </p>
