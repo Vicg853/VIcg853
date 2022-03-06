@@ -9,12 +9,13 @@ I like to think developers are the wizards of today's world 🪄🪄💻
 
 <br/>  
 <ul align='left' width='50%' style='width: 50%;'>
-   <h5> What am I doing?</h5>
+   <h5> What am I doing? (or planning for 2022)</h5>
    <li>🪄🖥️2nd version personal portfolio (using: <a href='https://www.gatsbyjs.com/'>GatsbyJS</a>)</li>
 
-   <li>🪄🖥️Developping <a href='https://github.com/Alpes-Capital'>@Alpes-Capital</a> Webpage/online services (using: <a href='https://nextjs.org/'>NextJS</a>)</li>
-  <li>Learning/setting up a home lab w/ a K8s Cluster (getting a little pissed off with it 😑😡 but "not gonna give you up not gonna let you down...")</li>
-  <li>🌎✈️🌍Planning on moving from São Paulo, Brasil -> to -> Nice, France</li>  
+   <li>🪄🖥️Finish developing <a href='https://github.com/Alpes-Capital'>@Alpes-Capital</a>'s management dashboard and add new features/improve design to/for the main landing page (https://github.com/Alpes-Capital/landing-page-v2)</li>
+  <li>Learn the Rust programming language</li>
+  <li>Finish learnning about and set up a home lab w/ a K8s Cluster (getting a little pissed off with it 😑😡 but "not gonna give you up not gonna let you down...")</li>
+  <li>🌎✈️🌍Moving from São Paulo, Brasil -> to -> Nice, France</li>  
 </ul> 
 
 <p align='center' width='50px'>
