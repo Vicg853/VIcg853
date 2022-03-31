@@ -89,5 +89,5 @@ Well, I love the whole stack, but at the moment, I'm focused on Full-stack dev. 
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=Vicg853&show_icons=true&count_private=true&hide_border=true&bg_color=1b1b1b&layout=compact&title_color=ffba48&text_color=ffffff&icon_color=ffba48" /> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicg853&hide_border=true&layout=compact&bg_color=1b1b1b&title_color=ffba48&text_color=ffffff&icon_color=ffba48" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicg853&hide_border=true&layout=compact&bg_color=1b1b1b&title_color=ffba48&text_color=ffffff&icon_color=ffba48&langs_count=10" />
 </p>
