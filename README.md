@@ -1,27 +1,14 @@
-### Oiii, tudo bem? Je suis Victor Gomez, encore un autre developeur aléatoire dans le monde... 😉👋  
+### Oiii, tudo bem? Sou Victor! 😉👋  
   
 
 <br/>  
 
-I'm an 18-year-old, that codes since he's 12 and loves anything related to Computer Science 🥰, Music (of literally any kind, I just, love listening to it, no matter what it is), spending time with friends and playing MSFS 2020 (also: flying 🤤, I would love to get a pilot's license✈️)<br/> 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains++Mono&color=FFBA48&size=30&multiline=true&height=100&lines=What+am+I+doing%3F+;Just%2C+coding+a+dinosaur..." align="right" />
+I'm an 18-year-old, that codes since he's 12 and loves anything related to Computer Science 🥰, Music (of literally any kind, I just love, listening to it), spending time with friends and playing MSFS 2020 (I would love to get a pilot's license✈️)<br/> 
 I like to think developers are the wizards of today's world 🪄🪄💻  
 
 <br/>  
-<ul align='left' width='50%' style='width: 50%;'>
-   <h5> What am I doing? (or planning for 2022)</h5>
-   <li>🪄🖥️2nd version personal portfolio (using: <a href='https://www.gatsbyjs.com/'>GatsbyJS</a>)</li>
-
-   <li>🪄🖥️Finish developing <a href='https://github.com/Alpes-Capital'>@Alpes-Capital</a>'s management dashboard and add new features/improve design to/for the main landing page (https://github.com/Alpes-Capital/landing-page-v2)</li>
-  <li>Learn the Rust programming language</li>
-  <li>Finish learnning about and set up a home lab w/ a K8s Cluster (getting a little pissed off with it 😑😡 but "not gonna give you up not gonna let you down...")</li>
-  <li>🌎✈️🌍Moving from São Paulo, Brasil -> to -> Nice, France</li>  
-</ul> 
 
 <p align='center' width='50px'>
-  <a href="https://github.com/Vicg853" target="_blank" align="right">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" align="right" />
-  </a>
   <a href="https://linkedin.com/in/victor-rosa-gomez-15953a171" target="_blank" align="right">
    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" align="right" />
   </a>
@@ -35,7 +22,7 @@ I like to think developers are the wizards of today's world 🪄🪄💻
 
 
 ## Skills...  
-Well, I love the whole stack, but at the moment, I'm focused on Full-stack dev. Junior dev
+Well, I love the whole stack, but at the moment, I'm focused on fullstack:
 
 <br/>  
 
@@ -82,12 +69,3 @@ Well, I love the whole stack, but at the moment, I'm focused on Full-stack dev. 
 </td></tr></table>  
 
 <br/>  
-
-
-## Github Stats  
-
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=Vicg853&show_icons=true&count_private=true&hide_border=true&bg_color=1b1b1b&layout=compact&title_color=ffba48&text_color=ffffff&icon_color=ffba48" /> 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicg853&hide_border=true&layout=compact&bg_color=1b1b1b&title_color=ffba48&text_color=ffffff&icon_color=ffba48&langs_count=10" />
-</p>
