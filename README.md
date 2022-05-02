@@ -59,6 +59,7 @@ Well, I love the whole stack, but at the moment, I'm focused on fullstack:
 <a href='https://electron.atom.io' target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>
 <a href='https://graphql.org/' target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>
 <a href='https://www.cypress.io/'><img style="margin: 10px" src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png" alt="Cypress" height="35" /></a>
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Vicg853/Vicg853/main/.github/resources/rust.png" alt="rust" width="40" height="40"/> </a>
 <a href='https://deno.land/' target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://deno.land/logo.svg" alt="Deno" height="45" /></a>
 <a href='https://www.postgresql.org/' target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" alt="PostgressSQL" height="45"/>
 </div>  
