@@ -3,8 +3,7 @@
 
 <br/>  
 
-I'm an 18-year-old, that codes since he's 12 and loves anything related to Computer Science 🥰, Music (of literally any kind, I just love, listening to it), spending time with friends and playing MSFS 2020 (I would love to get a pilot's license✈️)<br/> 
-I like to think developers are the wizards of today's world 🪄🪄💻  
+I'm an 19-year-old, that codes since he's 12, is passionate to anything related to Computer Science 🥰, Music (literally any genre, I just love, listening to it), spending time with friends and planes (I would love to get a pilot's license✈️, but for the moment MSFS 2020 does the job)<br/> 
 
 <br/>  
 
@@ -22,7 +21,7 @@ I like to think developers are the wizards of today's world 🪄🪄💻
 
 
 ## Skills...  
-Well, I love the whole stack, but at the moment, I'm focused on fullstack:
+Well, I love the whole-stack, but at the moment, I'm focused on the full stack:
 
 <br/>  
 
