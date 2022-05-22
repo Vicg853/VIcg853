@@ -3,7 +3,7 @@
 
 <br/>  
 
-I'm an 19-year-old, that codes since he's 12, is passionate to anything related to Computer Science 🥰, Music (literally any genre, I just love, listening to it), spending time with friends and planes (I would love to get a pilot's license✈️, but for the moment MSFS 2020 does the job)<br/> 
+I'm a 19-year-old developer, coding since being 12, and I’m passionate about computer science, Music (of any genre), and planes (I’m getting that pilot's license one day✈️, but for the moment, MSFS 2020 does the job).
 
 <br/>  
 
