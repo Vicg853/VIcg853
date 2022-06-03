@@ -3,7 +3,7 @@
 
 <br/>  
 
-I'm a 19-year-old developer, coding since being 12, and I’m passionate about computer science, Music (of any genre), and planes (I’m getting that pilot's license one day✈️, but for the moment, MSFS 2020 does the job).
+I'm a 19-year-old developer, coding since being 12, and I’m passionate about the whole-stack and computer science, Music (of any genre), and planes (I’m getting that pilot's license one day✈️, but for the moment, MSFS 2020 does the job).
 
 <br/>  
 
@@ -21,9 +21,6 @@ I'm a 19-year-old developer, coding since being 12, and I’m passionate about c
 
 
 ## Skills...  
-Well, I love the whole-stack, but at the moment, I'm focused on the full stack:
-
-<br/>  
 
 <table align="center"><tr><td valign="top" width="50%">
 
@@ -40,6 +37,7 @@ Well, I love the whole-stack, but at the moment, I'm focused on the full stack:
 <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/8c05b5bd744a8809e53a261afe7cbfddf885da1388cd3e2226e5ca57ba10009a/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3832363834343539343436343438393439342f3836363738383938383533383538353132382f363837343734373037333361326632663662363137353733373437353632363832653634363537363266363936643637326636653635373837343661373332653336333333333338363533333632333132653730366536372e706e673f77696474683d343535266865696768743d343939" alt="nextjs" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://remix.run"><img src="./.github/resources/remix-run.png" width="80" height="40" alt="Remix.run logo"> </a>
 </div>
 
 </td><td valign="top" width="50%">
